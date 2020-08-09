@@ -94,12 +94,6 @@ body{
     animation: textColor 2s linear infinite;
 }
 
-@keyframes textColor{
-    0%{transform: var(--color-primary);}
-    100%{transform: var(--color-primary)
-}
-}
-
 #stars {
     width: 1px;
     height: 1px;

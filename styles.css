@@ -99,6 +99,7 @@ body {
   padding: 2em;
 }
 
+<<<<<<< HEAD
 #starstitle {
   margin: 0 auto;
   max-width: 1200px;
@@ -118,6 +119,8 @@ body {
   animation: textColor 2s linear infinite;
 }
 
+=======
+>>>>>>> aa406c2fdd083da38249faa6fba3f0cf37b4b0fa
 #stars {
   width: 1px;
   height: 1px;
@@ -690,3 +693,10 @@ footer{
     list-style: none;
   }
 }
+<<<<<<< HEAD
+=======
+    .container{
+        width:100%;
+    }
+}
+>>>>>>> aa406c2fdd083da38249faa6fba3f0cf37b4b0fa

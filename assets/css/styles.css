@@ -197,6 +197,9 @@ footer {
   .wrapper {
     background-attachment: scroll;
   }
+  .wrapper span{
+    font-size: 1.7em;
+  }
   .container {
     width: 100%;
   }

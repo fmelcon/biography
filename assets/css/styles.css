@@ -198,7 +198,7 @@ footer {
     background-attachment: scroll;
   }
   .wrapper span{
-    font-size: 1.7em;
+    font-size: 1.5em;
   }
   .container {
     width: 100%;
@@ -217,5 +217,5 @@ footer {
   }
   
   ul{
-    display:block;
+    grid-template-columns: 1fr;
 }

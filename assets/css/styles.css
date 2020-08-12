@@ -8,7 +8,6 @@
 :root {
   --color-primary: #b09c28;
   --color-plight: #f0d9d9cc;
-  --max-width: 1200px;
 }
 html {
   width: 100%;
@@ -154,7 +153,6 @@ ul {
 footer {
   display: grid;
   place-items: center;
-  text-align: center;
   color: rgba(0, 0, 0, 0.7);
   padding: 2rem;
   min-height: 200px;
